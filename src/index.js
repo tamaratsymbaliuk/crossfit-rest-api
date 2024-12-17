@@ -16,3 +16,5 @@ app.listen(PORT, () => {
     console.log(`API is listening on port ${PORT}`);
     V1SwaggerDocs(app, PORT);
 });
+
+// https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api
